@@ -1,4 +1,6 @@
 # m2i-jour1
 
-mon fichier explicatif
+mon fichier explicatif local 
 new
+local
+ABU
